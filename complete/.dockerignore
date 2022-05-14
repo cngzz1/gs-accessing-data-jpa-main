@@ -1,0 +1,10 @@
+### Java template
+*
+# Package Files #
+!.mvn
+#!dependency-reduced-pom.xml
+!mvnw
+!mvnw.cmd
+!pom.xml
+!target
+!src
